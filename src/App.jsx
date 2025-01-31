@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import RoutesPath from './routes'
+import RoutesPath from './Routes.jsx'
 
 function App() {
 
